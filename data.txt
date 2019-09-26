@@ -1,0 +1,3 @@
+name: Mary
+Age: 25
+Favorite Color: Pink
